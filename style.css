@@ -172,7 +172,7 @@
 /* content section */
 
 .content{
-    height: 800px;
+    height: 1200px;
     width: 536px;
     margin-left: 170px;
     
@@ -257,6 +257,9 @@
 .content02{
     height: 400px;
     width: 536px;
+    position: sticky;
+    top: 4rem;
+   
 }
 
 .contentSectionHeading{
