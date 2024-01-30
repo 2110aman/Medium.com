@@ -2,6 +2,14 @@
     margin: 0%;
     padding: 0%;
 }
+.l-header{
+    height: 75px; 
+    border-bottom: 1px solid black; 
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 6;
+}
 .nav{
     display: flex;
     height: 9.5vh;
